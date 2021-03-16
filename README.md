@@ -30,6 +30,14 @@ https://github.com/ENNP/ANALYSIS
     <summary>REPORT</summary>
 
 ```
+2021 [ NAVER WEBSITE C ]
+
+	- INFORMATION
+		# Application version exposure
+    
+	- REPORT
+		# [ NAVER ] ( NBB-1769 )
+
 2021 [ NAVER WEBSITE B ]
 
 	- INFORMATION
