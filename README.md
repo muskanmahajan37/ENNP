@@ -19,7 +19,7 @@ The reason is that I got a lot of help from good people.
 
 </details>
 <details>
-    <summary>Education</summary>
+    <summary>EDUCATION</summary>
 
 ```
 2021 [ Ethical Hacker Training Process ( 1th ) ]
