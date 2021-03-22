@@ -19,10 +19,13 @@ The reason is that I got a lot of help from good people.
 
 </details>
 <details>
-    <summary>ANALYSIS</summary>
+    <summary>Education</summary>
 
 ```
-https://github.com/ENNP/ANALYSIS
+2021 [ Ethical Hacker Training Process ( 1th ) ]
+
+	- INFORMATION
+		# Daejeon Branch of the National Intelligence Service
 ```
 
 </details>
