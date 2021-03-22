@@ -19,17 +19,6 @@ The reason is that I got a lot of help from good people.
 
 </details>
 <details>
-    <summary>EDUCATION</summary>
-
-```
-2021 [ Ethical Hacker Training Process ( 1th ) ]
-
-	- INFORMATION
-		# Daejeon Branch of the National Intelligence Service
-```
-
-</details>
-<details>
     <summary>REPORT</summary>
 
 ```
